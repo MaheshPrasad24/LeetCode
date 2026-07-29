@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/MaheshPrasad24/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MaheshPrasad24/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1046-last-stone-weight](https://github.com/MaheshPrasad24/LeetCode/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/MaheshPrasad24/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/MaheshPrasad24/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/MaheshPrasad24/LeetCode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MaheshPrasad24/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Recursion
