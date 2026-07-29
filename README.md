@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/MaheshPrasad24/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1046-last-stone-weight](https://github.com/MaheshPrasad24/LeetCode/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/MaheshPrasad24/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/MaheshPrasad24/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MaheshPrasad24/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/MaheshPrasad24/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MaheshPrasad24/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/MaheshPrasad24/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/MaheshPrasad24/LeetCode/tree/master/1046-last-stone-weight) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/MaheshPrasad24/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MaheshPrasad24/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Recursion
 |  |
