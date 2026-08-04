@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/MaheshPrasad24/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MaheshPrasad24/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/MaheshPrasad24/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3731-find-missing-elements](https://github.com/MaheshPrasad24/LeetCode/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MaheshPrasad24/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MaheshPrasad24/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/MaheshPrasad24/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/MaheshPrasad24/LeetCode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MaheshPrasad24/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MaheshPrasad24/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/MaheshPrasad24/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/MaheshPrasad24/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
