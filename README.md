@@ -165,9 +165,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/MaheshPrasad24/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [3310-remove-methods-from-project](https://github.com/MaheshPrasad24/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MaheshPrasad24/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/MaheshPrasad24/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 <!---LeetCode Topics End-->
