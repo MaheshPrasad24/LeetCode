@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MaheshPrasad24/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/MaheshPrasad24/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0049-group-anagrams](https://github.com/MaheshPrasad24/LeetCode/tree/master/0049-group-anagrams) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MaheshPrasad24/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MaheshPrasad24/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MaheshPrasad24/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/MaheshPrasad24/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/MaheshPrasad24/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/MaheshPrasad24/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0486-predict-the-winner](https://github.com/MaheshPrasad24/LeetCode/tree/master/0486-predict-the-winner) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/MaheshPrasad24/LeetCode/tree/master/0049-group-anagrams) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MaheshPrasad24/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MaheshPrasad24/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MaheshPrasad24/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MaheshPrasad24/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/MaheshPrasad24/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/MaheshPrasad24/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MaheshPrasad24/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MaheshPrasad24/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
